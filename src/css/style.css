@@ -48,7 +48,7 @@ header {
    width: 100vw;
    height: 15vw;
    min-height: 150px;
-   background: url("/src/img/header_bg.png") no-repeat 50%;
+   background: url("../img/header_bg.png") no-repeat 50%;
    background-size: 90% 100%;
    transform: translateX(-50%);
    -webkit-transform: translateX(-50%);
