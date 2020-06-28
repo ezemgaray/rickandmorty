@@ -22,7 +22,6 @@ $(function () {
    $('#checkmenu').change(function () {
       if ($('#checkmenu').is(":checked")) $('[for="checkmenu"] span').text("❮")
       else $('[for="checkmenu"] span').text("❯")
-      get
    })
 
    /**
